@@ -13,3 +13,7 @@
 	- [ผลลบ](https://github.com/Solidity-Thailand/lab/blob/main/function_minus.sol) 
 	- [ผลคูณ](https://github.com/Solidity-Thailand/lab/blob/main/function_multiply.sol) 
 	- [ผลหาร](https://github.com/Solidity-Thailand/lab/blob/main/function_division.sol) 
+    - [เงื่อนไข](https://github.com/Solidity-Thailand/lab/blob/main/function_ifelse.sol) 
+    - [ลูป](https://github.com/Solidity-Thailand/lab/blob/main/function_loop.sol)
+    - [import file1](https://github.com/Solidity-Thailand/lab/blob/main/function_file1.sol)
+    - [import file2](https://github.com/Solidity-Thailand/lab/blob/main/function_file2.sol)
