@@ -1,10 +1,10 @@
 pragma solidity ^0.5.3;
 contract DivisionResult{
-   int division;
+   int _division;
    function setDivision(int x,int y) public {
-      division = x/y;
+      _division = x/y;
    }
    function getDivision() public view returns (int) {
-      return division;
+      return _division;
    }
 }

@@ -1,5 +1,5 @@
 pragma solidity ^0.5.3;
 contract File2 {
-    uint[] data;  
-    uint8 i = 0;
+    uint[] _data;  
+    uint8 _i = 0;
 }
