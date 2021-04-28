@@ -9,7 +9,7 @@
 ## เนื้อหาการจัดการ
 
 - [Lab](#Lab)
-	- [ผลรวม][#ผลรวม](https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลลบ][#ผลลบ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลคูณ][#ผลคูณ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลคูณ][#ผลคูณ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
+	- [ผลรวม](https://github.com/Solidity-Thailand/lab/blob/main/function_sum.sol) 
+	- [ผลลบ](https://github.com/Solidity-Thailand/lab/blob/main/function_minus.sol) 
+	- [ผลคูณ](https://github.com/Solidity-Thailand/lab/blob/main/function_multiply.sol) 
+	- [ผลหาร](https://github.com/Solidity-Thailand/lab/blob/main/function_division.sol) 
