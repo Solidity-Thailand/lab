@@ -1,10 +1,10 @@
 pragma solidity ^0.5.3;
 contract PositiveResult {
-   uint sum;
-   function setSum(uint x,uint y) public {
+   int sum;
+   function setSum(int x,int y) public {
       sum = x+y;
    }
-   function getSum() public view returns (uint) {
+   function getSum() public view returns (int) {
       return sum;
    }
 }
