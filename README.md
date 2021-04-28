@@ -9,7 +9,7 @@
 ## เนื้อหาการจัดการ
 
 - [Lab](#Lab)
-	- [ผลรวม](#ผลรวม)(https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลลบ](#ผลลบ)(https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลคูณ](#ผลคูณ)(https://docs.soliditylang.org/en/v0.6.6/index.html) 
-	- [ผลคูณ](#ผลคูณ)(https://docs.soliditylang.org/en/v0.6.6/index.html) 
+	- [ผลรวม][#ผลรวม](https://docs.soliditylang.org/en/v0.6.6/index.html) 
+	- [ผลลบ][#ผลลบ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
+	- [ผลคูณ][#ผลคูณ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
+	- [ผลคูณ][#ผลคูณ](https://docs.soliditylang.org/en/v0.6.6/index.html) 
